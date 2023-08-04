@@ -107,3 +107,23 @@ h2 {
     text-align: center;
 }
 
+/* QUOTE SECTION */
+.quote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    display: flex;
+    flex-direction: column;
+    padding: 64px 128px;
+}
+
+.quotation {
+    font-style: italic;
+    margin: 0;
+}
+
+.author {
+    align-self: flex-end;
+    font-weight: bold;
+    margin: 0;
+}
