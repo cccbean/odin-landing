@@ -2,6 +2,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     display: flex;
     flex-direction: column;
+    margin: 0;
 }
 
 /* HEADER SECTION */
