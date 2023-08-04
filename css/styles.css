@@ -127,3 +127,42 @@ h2 {
     font-weight: bold;
     margin: 0;
 }
+
+/* ACTION SECTION */
+.action {
+    padding: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.action-box {
+    background-color: #3382F6;
+    font-size: 18px;
+    color: #F9FAF8;
+    border-radius: 4px;
+    padding: 16px 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 64px;
+}
+
+.action-text {
+    padding: 8px;
+}
+
+.action-text p {
+    margin: 0;
+}
+
+.action-box button {
+    background-color: inherit;
+    border: 2px solid #F9FAF8;
+    border-radius: 4px;
+    color: #F9FAF8;
+    height: fit-content;
+    width: fit-content;
+}
+
+/* FOOTER SECTION */
